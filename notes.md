@@ -1,14 +1,19 @@
-Como resolver problemas na linguagem de programação?
-Como melhorar minha lógica de programação?
+Boas práticas na escrita de variáveis
 
-1. Identifique o que ja sabe e faça!
-2. Quebre o grande problema em problemas menores!
+- Em inglês
+- Sem espaços ou acentuações especiais no nome
+- Não pode iniciar com número
+- camelCase
 
-O que estou aprendendo de ferramentas do JS
+- ponto e virgula servem para finalizar uma expressão de código
+- e é facultativo
 
-[] executar funções
-[] variáveis
-[] concatenação
-[] tipo de dado: String
-[] Básica de syntax
-String = Cadeia de caracteres
+  [] Tipo de dado: Number
+  [] typeof
+  [] Operador matemático
+  [] Manipulação de dados
+  --[] type connversion (type casting)
+  --[] Number() (função construtora para converter um dado para número)
+  --[] String() (função construtora para converter um dado para string)
+  [] Ordem de precedência dos operadores
+  [] Group operator
